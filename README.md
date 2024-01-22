@@ -4,10 +4,10 @@
 
 O contexto rodoviário brasileiro, vasto e dinâmico, é marcado por desafios inerentes à segurança viária. Nesse cenário, a Polícia Rodoviária Federal (PRF) desempenha um papel essencial na garantia da ordem e na promoção da segurança nas rodovias federais do país.
 
-###Papel da Polícia Rodoviária Federal (PRF):
+### Papel da Polícia Rodoviária Federal (PRF):
 A PRF, instituição vinculada ao Ministério da Justiça e Segurança Pública, é responsável pela fiscalização, patrulhamento e policiamento ostensivo nas rodovias federais brasileiras. Seu propósito principal é assegurar a integridade dos usuários das estradas, prevenir acidentes e zelar pela ordem pública em um ambiente rodoviário desafiador.
 
-###Implementação de Radares como Medida de Segurança:
+### Implementação de Radares como Medida de Segurança:
 Os radares, dispositivos eletrônicos de monitoramento de velocidade e comportamento veicular, representam uma ferramenta crucial na abordagem preventiva da PRF. Estrategicamente posicionados, esses equipamentos visam não apenas coibir excessos de velocidade, mas também promover uma cultura de respeito às normas de trânsito, contribuindo para a redução de acidentes e suas consequências.
 
 ## 2- Objetivo da Análise
