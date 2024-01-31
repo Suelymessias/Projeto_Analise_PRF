@@ -14,9 +14,14 @@ Os radares, dispositivos eletrônicos de monitoramento de velocidade e comportam
 
 Este projeto tem como objetivo analisar as causas dos acidentes nas rodovias do Brasil e se há relação com o posicionamento dos radares.
 
-- Analisar a eficácia dos radares: Avaliar o impacto dos radares na redução de acidentes.
+- Analisar a eficácia dos radares e o impacto dos radares na redução de acidentes.
 
-- Identificar rodovias com maior concentração de acidentes e avaliar a presença de radares nesses locais:
-Identificar as rodovias com maior incidência de acidentes e verificar a presença de radares nesses trechos.
+- Identificar rodovias com maior concentração de acidentes e avaliar a presença de radares nesses locais.
 
-- Avaliar a gravidade dos acidentes nas rodovias: Avaliar a gravidade dos acidentes ocorridos em diferentes trechos das rodovias.
+- Avaliar a gravidade dos acidentes ocorridos em diferentes trechos das rodovias.
+
+- Conduzir uma análise estatística para determinar a correlação entre a presença de radares e a diminuição na frequência de acidentes.
+
+- Conduzir uma analise temporal nos anos abordados.
+
+- Considerar não apenas os aspectos de segurança, mas também as implicações econômicas decorrentes dos acidentes.
