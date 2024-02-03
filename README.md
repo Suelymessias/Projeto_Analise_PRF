@@ -74,7 +74,7 @@ Essas propostas visam não apenas controlar a velocidade e desencorajar comporta
 
 ## Licença
 
-Este projeto está licenciado sob os termos da [Licença MIT]
+Este projeto está licenciado sob os termos da [Licença MIT](https://github.com/Suelymessias/Projeto_Analise_PRF/blob/main/LICENSE)
 
 ## Contato
 
