@@ -20,7 +20,7 @@ e abrangem o período de janeiro de 2021 a julho de 2023.
 Os dados de radares de trânsito nas rodovias federais do Brasil forma coletados em  "Dados.gov.br" do governo federal [Dados Radares](https://dados.gov.br/dados/conjuntos-dados/radar) com atualizaçõ em dezembro de 2023.
 
 ## Tecnologias Utilizadas
-- **Ambiente de Desenvolvimento: Google Colab**
+- Ambiente de Desenvolvimento: Google Colab
 - Linguagem de Programação: Python
 
 ### Bibliotecas Python:
@@ -36,17 +36,33 @@ Os dados de radares de trânsito nas rodovias federais do Brasil forma coletados
 Este projeto tem como objetivo analisar as causas dos acidentes nas rodovias do Brasil e se há relação com o posicionamento dos radares.
 
 - Analisar a eficácia dos radares e o impacto dos radares na redução de acidentes.
-
 - Identificar rodovias com maior concentração de acidentes e avaliar a presença de radares nesses locais.
-
 - Avaliar a gravidade dos acidentes ocorridos em diferentes trechos das rodovias.
-
 - Conduzir uma análise estatística para determinar a correlação entre a presença de radares e a diminuição na frequência de acidentes.
-
 - Conduzir uma analise temporal nos anos abordados.
-
 - Considerar não apenas os aspectos de segurança, mas também as implicações econômicas decorrentes dos acidentes.
 
 ## Entendimento dos Daods
 
-Na fase de entendimento dos dados, o objetivo é adquirir uma compreensão abrangente do conjunto de dados em questão. Isso inclui identificar suas fontes, entender a estrutura dos dados, examinar as características e os tipos de variáveis presentes e compreender o contexto em que os dados foram coletados. Esta etapa é crucial para orientar as análises subsequentes e garantir que os dados sejam interpretados corretamente.
+Na fase de entendimento dos dados, o objetivo é adquirir uma compreensão abrangente do conjunto de dados em questão. Isso inclui identificar suas fontes, entender a estrutura dos dados, examinar as características e os tipos de variáveis presentes e compreender o contexto em que os dados foram coletados. Durante essa etapa, foram incluídos metadados detalhados que descrevem a origem e a composição dos dados, fornecendo informações adicionais para orientar as análises subsequentes. Esta etapa é crucial para orientar as análises subsequentes e garantir que os dados sejam interpretados corretamente.
+
+## Preparação dos Dados
+
+A preparação dos dados envolve o processo de limpeza, transformação e organização dos dados de forma a torná-los adequados para análise. Nesta etapa foram realizados tratamento de valores nulos, modificação de formato de variáveis para garantir consistência nos tipos de dados, padronização de colunas para facilitar a análise e ajustes em colunas para refletir informações mais precisas.
+
+Uma preparação eficaz dos dados é fundamental para garantir a qualidade e a confiabilidade das análises posteriores, pois ajuda a minimizar viéses e inconsistências nos dados, permitindo uma interpretação mais precisa dos resultados.
+
+## Análise Exploratória
+
+A análise exploratória visa investigar os padrões, relações e tendências presentes nos dados. Por meio de técnicas estatísticas e visualizações, busca-se identificar insights relevantes, padrões emergentes e potenciais correlações entre as variáveis.
+
+Durante a análise exploratória, foram realizadas diversas análises, incluindo a distribuição geográfica dos acidentes em um mapa do Brasil, a frequência dos acidentes por rodovia, a avaliação da gravidade dos acidentes e a identificação de áreas de alto risco. Além disso, foi realizada uma análise das proximidades dos acidentes em relação à localização dos radares, permitindo identificar possíveis relações entre a presença de radares e a incidência de acidentes.
+
+Também foi conduzida uma análise temporal dos acidentes para compreender as tendências ao longo do tempo e identificar variações significativas em diferentes períodos.
+
+Essa etapa permitiu uma compreensão mais profunda dos dados, fornecendo insights valiosos para a formulação de hipóteses e a tomada de decisões informadas sobre medidas de segurança viária e políticas de prevenção de acidentes.
+
+## Licença
+
+Os dados utilizados neste projeto são fornecidos pelo [Governo Federal do Brasil] (https://dados.gov.br/home) e estão licenciados sob a Licença Creative Commons Atribuição 4.0 Internacional (CC BY 4.0). Para mais informações sobre os termos da licença, consulte: https://creativecommons.org/licenses/by/4.0/legalcode.
+
