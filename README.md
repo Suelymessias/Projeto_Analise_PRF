@@ -1,6 +1,6 @@
 # Projeto: Análise dos Dados da Polícia Rodoviária Federal de Acidentes nas Rodovias e Posicionamento de Radares
 
-## 1- Entendimento do Negócio
+## Entendimento do Negócio
 
 O contexto rodoviário brasileiro, vasto e dinâmico, é marcado por desafios inerentes à segurança viária. Nesse cenário, a Polícia Rodoviária Federal (PRF) desempenha um papel essencial na garantia da ordem e na promoção da segurança nas rodovias federais do país.
 
@@ -10,7 +10,16 @@ A PRF, instituição vinculada ao Ministério da Justiça e Segurança Pública,
 ### Implementação de Radares como Medida de Segurança:
 Os radares, dispositivos eletrônicos de monitoramento de velocidade e comportamento veicular, representam uma ferramenta crucial na abordagem preventiva da PRF. Estrategicamente posicionados, esses equipamentos visam não apenas coibir excessos de velocidade, mas também promover uma cultura de respeito às normas de trânsito, contribuindo para a redução de acidentes e suas consequências.
 
-## 2- Objetivo da Análise
+## Conjunto de dados utilizados
+
+### Dados dos acidentes da PRF nas Rodovias 
+Os dados de acidentes de trânsito utilizados neste estudo foram coletados no site da Policia Rodoviária Federal em [Dados Abertos da PRF]( https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf)
+e abrangem o período de janeiro de 2021 a julho de 2023.
+
+### Dados Radares nas Rodovias Federais
+Os dados de radares de trânsito nas rodovias federais do Brasil forma coletados em  "Dados.gov.br" do governo federal [Dados Radares](https://dados.gov.br/dados/conjuntos-dados/radar) com atualizaçõ em dezembro de 2023.
+
+## Objetivo da Análise
 
 Este projeto tem como objetivo analisar as causas dos acidentes nas rodovias do Brasil e se há relação com o posicionamento dos radares.
 
@@ -25,3 +34,5 @@ Este projeto tem como objetivo analisar as causas dos acidentes nas rodovias do 
 - Conduzir uma analise temporal nos anos abordados.
 
 - Considerar não apenas os aspectos de segurança, mas também as implicações econômicas decorrentes dos acidentes.
+
+
