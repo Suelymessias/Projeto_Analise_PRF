@@ -74,6 +74,8 @@ Essas propostas visam não apenas controlar a velocidade e desencorajar comporta
 
 ## Licença
 
+Este projeto está licenciado sob os termos da [Licença MIT]
+
 ## Contato
 
 Para mais informações ou colaborações, entre em contato através do [e-mail](suelymesssias@gmail.com) 
