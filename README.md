@@ -13,7 +13,7 @@ Os radares, dispositivos eletrônicos de monitoramento de velocidade e comportam
 ## Conjunto de Dados
 
 ### Dados dos acidentes da PRF nas Rodovias 
-Os dados de acidentes de trânsito utilizados neste estudo foram coletados no site da Policia Rodoviária Federal em [Dados Abertos da PRF]( https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf)
+Os dados de acidentes de trânsito utilizados neste estudo foram coletados no site da Policia Rodoviária Federal em [Dados Abertos da PRF](https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf)
 e abrangem o período de janeiro de 2021 a julho de 2023.
 
 ### Dados Radares nas Rodovias Federais
@@ -62,7 +62,21 @@ Também foi conduzida uma análise temporal dos acidentes para compreender as te
 
 Essa etapa permitiu uma compreensão mais profunda dos dados, fornecendo insights valiosos para a formulação de hipóteses e a tomada de decisões informadas sobre medidas de segurança viária e políticas de prevenção de acidentes.
 
+## Conclusão e Recomendações
+
+Após uma análise abrangente dos dados relacionados aos acidentes nas rodovias e à presença de radares, fica evidente a necessidade de medidas urgentes para melhorar a segurança viária. Os resultados revelam uma lacuna significativa na infraestrutura de monitoramento, com trechos críticos carecendo de sistemas de radar. Isso ressalta a importância de expandir a cobertura de radares em áreas de alta incidência de acidentes.
+
+Além disso, observa-se uma estabilidade preocupante nos índices de acidentes ao longo do tempo, sem uma diminuição significativa nos números de vítimas. Essa tendência reforça a urgência de implementar medidas eficazes para reduzir a incidência de acidentes nas rodovias.
+
+Diante dessas constatações, propõe-se uma série de medidas para melhorar a segurança viária. Isso inclui a instalação estratégica de radares em áreas com alta concentração de acidentes, a avaliação de locais críticos para identificar padrões de ocorrência, a melhoria da sinalização e conscientização dos motoristas, e o estabelecimento de um sistema contínuo de monitoramento e análise de dados.
+
+Essas propostas visam não apenas controlar a velocidade e desencorajar comportamentos imprudentes, mas também promover uma cultura de segurança nas estradas. É fundamental que as autoridades responsáveis e os órgãos de trânsito atuem de forma proativa na implementação dessas medidas, visando à redução dos acidentes e à preservação de vidas nas rodovias.
+
 ## Licença
 
-Os dados utilizados neste projeto são fornecidos pelo [Governo Federal do Brasil] (https://dados.gov.br/home) e estão licenciados sob a Licença Creative Commons Atribuição 4.0 Internacional (CC BY 4.0). Para mais informações sobre os termos da licença, consulte: https://creativecommons.org/licenses/by/4.0/legalcode.
+## Contato
+
+Para mais informações ou colaborações, entre em contato através do [e-mail](suelymesssias@gmail.com) 
+Você também pode me encontrar no [LinkedIn](https://www.linkedin.com/in/suely-c-messias-analytics/)
+
 
